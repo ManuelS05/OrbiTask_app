@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Orbitask</string>
+    <string name="add_task">Add task</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="priority">Priority</string>
+    <string name="close">Close</string>
+    <string name="task_completed">Task completed</string>
+    <string name="task_pending">Task pending</string>
+    <string name="high_priority">High priority</string>
+    <string name="medium_priority">Medium priority</string>
+    <string name="low_priority">Low priority</string>
+</resources>
